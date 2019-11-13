@@ -1,3 +1,8 @@
+body {
+	background-color: #ffeceb;
+	background-image: url("https://www.transparenttextures.com/patterns/candyhole.png");
+	}
+
 .vasak {
 	float:left;
 	width: 45%;
@@ -5,8 +10,8 @@
 	padding-left: 3%;
 	}
 .parem {
-	float:left;
-	width: 50%;
+	float:right;
+	width: 45%;
 	padding-right:3%;
 	}
 
