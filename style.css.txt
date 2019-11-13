@@ -1,0 +1,11 @@
+.vasak {
+	float:left;
+	width: 45%;
+	padding-right: 3%;
+	padding-left: 3%;
+	}
+.parem {
+	float:right;
+	width: 50%;
+	padding-right:3%;
+	}
