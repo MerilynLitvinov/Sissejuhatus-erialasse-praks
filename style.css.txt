@@ -5,7 +5,7 @@
 	padding-left: 3%;
 	}
 .parem {
-	float:right;
+	float:left;
 	width: 50%;
 	padding-right:3%;
 	}
