@@ -14,13 +14,22 @@ body {
 	width: 45%;
 	padding-right:3%;
 	}
-h3 {padding: 10px;
+h3 {
+	font-size: 20px;
+	margin-left: 60px;
+	margin-right: auto;
 	text-align: left;
 	
 }
 h4 {font-size: 20px;
 	padding: 10px;
+	margin-left: 10px;
+	margin-right: auto;
+	text-align: left;
 }
 h5 {font-size: 20px;
 	padding: 10px;
+	margin-left: 10px;
+	margin-right: auto;
+	text-align: right;
 }
